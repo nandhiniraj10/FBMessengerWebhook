@@ -1,4 +1,4 @@
-**Abstract:** <br>Dynamic Facebook Messenger Chatbot Response Handling with Django<br>
+**Abstract:** <br>Dynamic Facebook Messenger Chatbot Response Handling with Django.<br>
 This project involves the development of a Facebook Messenger chatbot using Django, focused on dynamically handling user interactions through predefined templates and postback payloads. The chatbot is designed to guide users through a series of interactions, offering tailored responses based on user inputs. <br>
 
 **Key aspects of the implementation include:**<br>

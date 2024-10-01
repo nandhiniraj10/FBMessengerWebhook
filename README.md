@@ -9,7 +9,7 @@ This project involves the development of a Facebook Messenger chatbot using Djan
 **5.Django Integration:**<br>The chatbot logic is integrated with a Django backend, providing a scalable and maintainable solution for managing interactions and data.<br>
 This implementation enables the creation of an interactive and user-friendly chatbot, capable of handling complex user journeys while maintaining a conversational flow. Future enhancements could include more advanced AI capabilities for natural language understanding and support for multi-language interactions.<br>
 **6.Databse:**<br>To store information about client visits in a MySQL database, we can follow these steps:<br>
-**1. Database Design**<br>
+**Database Design**<br>
  First, we need to design the database schema that will store information about each client's visit. Common details to store might include:<br>
 **Client ID:** A unique identifier for each client.<br>
 **Visit Date and Time:** The timestamp of when the client visited.<br>
